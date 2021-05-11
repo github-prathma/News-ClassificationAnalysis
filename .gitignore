@@ -4,6 +4,7 @@
 /node_modules
 /.idea
 /News_Category_Dataset.json
+/filtered_data.csv
 /.pnp
 .pnp.js
 
