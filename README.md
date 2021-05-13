@@ -3,9 +3,7 @@
 This study demonstrates the various experiments and analysis performed on news classification data.
 
 
-#### Data Source: 
-
-https://www.kaggle.com/rmisra/news-category-dataset
+#### Data Source: https://www.kaggle.com/rmisra/news-category-dataset
 
 
 
