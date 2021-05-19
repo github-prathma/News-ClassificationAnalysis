@@ -8,6 +8,7 @@
 /.pnp
 .pnp.js
 /.ipynb_checkpoints
+/word2vec_Model.bin
 
 # testing
 /coverage
